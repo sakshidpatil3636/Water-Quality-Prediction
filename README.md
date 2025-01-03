@@ -66,8 +66,5 @@ This project leverages machine learning for environmental and health safety, pro
 
 ---
 
-## **Contributors**  
-- **Sakshi Dinkar Patil**  
 
----
 
